@@ -1,0 +1,331 @@
+colour	x	y	label	key	clickSelects	showSelected1	showSelected2	PANEL	group
+#32D6BA	11	818	Berri	Berri	Berri	Berri	January 2009	2	1
+#32D6BA	18	826	Berri	Berri	Berri	Berri	February 2009	2	2
+#32D6BA	17	1371	Berri	Berri	Berri	Berri	March 2009	2	3
+#32D6BA	27	4551	Berri	Berri	Berri	Berri	April 2009	2	4
+#32D6BA	21	6228	Berri	Berri	Berri	Berri	May 2009	2	5
+#32D6BA	17	6820	Berri	Berri	Berri	Berri	June 2009	2	6
+#32D6BA	9	7126	Berri	Berri	Berri	Berri	July 2009	2	7
+#32D6BA	3	6404	Berri	Berri	Berri	Berri	August 2009	2	8
+#32D6BA	9	6075	Berri	Berri	Berri	Berri	September 2009	2	9
+#32D6BA	6	4352	Berri	Berri	Berri	Berri	October 2009	2	10
+#32D6BA	9	3040	Berri	Berri	Berri	Berri	November 2009	2	11
+#32D6BA	2	1877	Berri	Berri	Berri	Berri	December 2009	2	12
+#7649C8	9	8075	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	July 2009	2	55
+#7649C8	3	7683	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	August 2009	2	56
+#7649C8	2	7548	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	September 2009	2	57
+#7649C8	6	2705	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	October 2009	2	58
+#7649C8	9	1815	Br茅beuf	Br茅beuf	Br茅beuf	Br茅beuf	November 2009	2	59
+#0591F5	16	3999	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	June 2009	2	134
+#0591F5	5	3564	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	July 2009	2	135
+#0591F5	3	3602	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	August 2009	2	136
+#0591F5	10	3421	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	September 2009	2	137
+#0591F5	21	1978	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	October 2009	2	138
+#0591F5	10	1770	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	November 2009	2	139
+#0591F5	2	1211	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	December 2009	2	140
+#FC9D31	17	6547	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	June 2009	2	183
+#FC9D31	9	6251	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	July 2009	2	184
+#FC9D31	25	6198	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	August 2009	2	185
+#FC9D31	10	7087	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	September 2009	2	186
+#FC9D31	6	5110	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	October 2009	2	187
+#FC9D31	10	3930	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	November 2009	2	188
+#FC9D31	2	2367	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	December 2009	2	189
+#A77B7B	12	1337	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	January 2009	2	300
+#A77B7B	28	1798	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	February 2009	2	301
+#A77B7B	18	3021	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	March 2009	2	302
+#A77B7B	30	3037	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	April 2009	2	303
+#A77B7B	12	3308	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	May 2009	2	304
+#A77B7B	17	3260	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	June 2009	2	305
+#A77B7B	9	3646	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	July 2009	2	306
+#A77B7B	3	3420	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	August 2009	2	307
+#A77B7B	9	3465	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	September 2009	2	308
+#A77B7B	2	3182	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	October 2009	2	309
+#A77B7B	26	2636	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	November 2009	2	310
+#A77B7B	9	2491	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	December 2009	2	311
+#32D6BA	27	876	Berri	Berri	Berri	Berri	January 2010	2	13
+#32D6BA	16	916	Berri	Berri	Berri	Berri	February 2010	2	14
+#32D6BA	16	2336	Berri	Berri	Berri	Berri	March 2010	2	15
+#32D6BA	30	4643	Berri	Berri	Berri	Berri	April 2010	2	16
+#32D6BA	25	6930	Berri	Berri	Berri	Berri	May 2010	2	17
+#32D6BA	15	7995	Berri	Berri	Berri	Berri	June 2010	2	18
+#32D6BA	20	7203	Berri	Berri	Berri	Berri	July 2010	2	19
+#32D6BA	24	7078	Berri	Berri	Berri	Berri	August 2010	2	20
+#32D6BA	10	5897	Berri	Berri	Berri	Berri	September 2010	2	21
+#32D6BA	5	5233	Berri	Berri	Berri	Berri	October 2010	2	22
+#32D6BA	3	3394	Berri	Berri	Berri	Berri	November 2010	2	23
+#32D6BA	2	1572	Berri	Berri	Berri	Berri	December 2010	2	24
+#7649C8	14	4121	Br閎euf	Br閎euf	Br閎euf	Br閎euf	April 2010	2	60
+#7649C8	4	9735	Br閎euf	Br閎euf	Br閎euf	Br閎euf	June 2010	2	61
+#7649C8	20	7194	Br閎euf	Br閎euf	Br閎euf	Br閎euf	July 2010	2	62
+#7649C8	24	7310	Br閎euf	Br閎euf	Br閎euf	Br閎euf	August 2010	2	63
+#7649C8	1	6637	Br閎euf	Br閎euf	Br閎euf	Br閎euf	September 2010	2	64
+#7649C8	5	5235	Br閎euf	Br閎euf	Br閎euf	Br閎euf	October 2010	2	65
+#7649C8	3	3177	Br閎euf	Br閎euf	Br閎euf	Br閎euf	November 2010	2	66
+#A799FF	13	2421	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	October 2010	2	67
+#A799FF	3	1905	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	November 2010	2	68
+#A799FF	3	1023	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	C魌e-Sainte-Catherine	December 2010	2	69
+#0591F5	22	702	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	January 2010	2	141
+#0591F5	18	739	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	February 2010	2	142
+#0591F5	19	1688	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	March 2010	2	143
+#0591F5	30	3106	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	April 2010	2	144
+#0591F5	27	4486	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	May 2010	2	145
+#0591F5	15	5577	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	June 2010	2	146
+#0591F5	5	4972	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	July 2010	2	147
+#0591F5	11	4290	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	August 2010	2	148
+#0591F5	13	3130	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	October 2010	2	149
+#0591F5	3	2304	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	November 2010	2	150
+#0591F5	3	1193	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	December 2010	2	151
+#FC9D31	27	1033	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	January 2010	2	190
+#FC9D31	18	1081	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	February 2010	2	191
+#FC9D31	17	2907	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	March 2010	2	192
+#FC9D31	30	5298	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	April 2010	2	193
+#FC9D31	28	7447	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	May 2010	2	194
+#FC9D31	2	7704	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	June 2010	2	195
+#FC9D31	15	7648	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	July 2010	2	196
+#FC9D31	31	7228	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	August 2010	2	197
+#FC9D31	15	7072	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	September 2010	2	198
+#FC9D31	5	6459	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	October 2010	2	199
+#FC9D31	3	4261	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	November 2010	2	200
+#FC9D31	2	1985	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	December 2010	2	201
+#FB8072	13	3661	du Parc	du Parc	du Parc	du Parc	October 2010	2	100
+#FB8072	3	2791	du Parc	du Parc	du Parc	du Parc	November 2010	2	101
+#FB8072	2	1494	du Parc	du Parc	du Parc	du Parc	December 2010	2	102
+#93DF10	11	1570	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	October 2010	2	233
+#93DF10	13	881	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	November 2010	2	234
+#93DF10	3	594	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	December 2010	2	235
+#F58AC1	5	4221	Rachel	Rachel	Rachel	Rachel	October 2010	2	267
+#F58AC1	11	2880	Rachel	Rachel	Rachel	Rachel	November 2010	2	268
+#F58AC1	2	1635	Rachel	Rachel	Rachel	Rachel	December 2010	2	269
+#A77B7B	5	1336	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	January 2010	2	312
+#A77B7B	18	1360	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	February 2010	2	313
+#A77B7B	19	1898	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	March 2010	2	314
+#A77B7B	27	4356	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	April 2010	2	315
+#A77B7B	27	3622	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	May 2010	2	316
+#A77B7B	18	3783	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	June 2010	2	317
+#A77B7B	5	3603	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	July 2010	2	318
+#A77B7B	11	3545	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	August 2010	2	319
+#A77B7B	10	3738	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	September 2010	2	320
+#A77B7B	5	3148	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	October 2010	2	321
+#A77B7B	3	2455	Saint-Urbain	Saint-Urbain	Saint-Urbain	Saint-Urbain	November 2010	2	322
+#32D6BA	11	848	Berri	Berri	Berri	Berri	January 2011	2	25
+#32D6BA	24	868	Berri	Berri	Berri	Berri	February 2011	2	26
+#32D6BA	30	1534	Berri	Berri	Berri	Berri	March 2011	2	27
+#32D6BA	12	3382	Berri	Berri	Berri	Berri	April 2011	2	28
+#32D6BA	31	7357	Berri	Berri	Berri	Berri	May 2011	2	29
+#32D6BA	17	7899	Berri	Berri	Berri	Berri	June 2011	2	30
+#32D6BA	4	7556	Berri	Berri	Berri	Berri	July 2011	2	31
+#32D6BA	17	6593	Berri	Berri	Berri	Berri	August 2011	2	32
+#32D6BA	9	7078	Berri	Berri	Berri	Berri	September 2011	2	33
+#32D6BA	1	1556	Berri	Berri	Berri	Berri	October 2011	2	34
+#A799FF	4	534	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	January 2011	2	70
+#A799FF	18	614	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	February 2011	2	71
+#A799FF	31	1082	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	March 2011	2	72
+#A799FF	30	1800	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	April 2011	2	73
+#A799FF	31	3214	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	May 2011	2	74
+#A799FF	7	3390	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	June 2011	2	75
+#A799FF	7	3127	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	July 2011	2	76
+#A799FF	31	3403	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	August 2011	2	77
+#A799FF	8	3640	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	September 2011	2	78
+#A799FF	5	1453	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	October 2011	2	79
+#0591F5	12	699	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	January 2011	2	152
+#0591F5	24	707	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	February 2011	2	153
+#0591F5	31	1257	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	March 2011	2	154
+#0591F5	29	2512	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	April 2011	2	155
+#0591F5	31	5420	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	May 2011	2	156
+#0591F5	17	5855	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	June 2011	2	157
+#0591F5	4	5441	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	July 2011	2	158
+#0591F5	17	4664	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	August 2011	2	159
+#0591F5	9	5068	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	September 2011	2	160
+#0591F5	11	3876	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	October 2011	2	161
+#0591F5	2	2971	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	November 2011	2	162
+#FC9D31	13	989	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	January 2011	2	202
+#FC9D31	18	1018	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	February 2011	2	203
+#FC9D31	31	2167	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	March 2011	2	204
+#FC9D31	29	4240	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	April 2011	2	205
+#FC9D31	31	8697	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	May 2011	2	206
+#FC9D31	7	8832	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	June 2011	2	207
+#FC9D31	5	8470	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	July 2011	2	208
+#FC9D31	31	8048	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	August 2011	2	209
+#FC9D31	8	8683	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	September 2011	2	210
+#FC9D31	5	6530	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	October 2011	2	211
+#FC9D31	2	5158	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	November 2011	2	212
+#FB8072	13	766	du Parc	du Parc	du Parc	du Parc	January 2011	2	103
+#FB8072	18	729	du Parc	du Parc	du Parc	du Parc	February 2011	2	104
+#FB8072	31	1521	du Parc	du Parc	du Parc	du Parc	March 2011	2	105
+#FB8072	12	2448	du Parc	du Parc	du Parc	du Parc	April 2011	2	106
+#FB8072	31	4611	du Parc	du Parc	du Parc	du Parc	May 2011	2	107
+#FB8072	16	4837	du Parc	du Parc	du Parc	du Parc	June 2011	2	108
+#FB8072	19	4463	du Parc	du Parc	du Parc	du Parc	July 2011	2	109
+#FB8072	31	4557	du Parc	du Parc	du Parc	du Parc	August 2011	2	110
+#FB8072	27	5077	du Parc	du Parc	du Parc	du Parc	September 2011	2	111
+#FB8072	11	4207	du Parc	du Parc	du Parc	du Parc	October 2011	2	112
+#FB8072	2	3443	du Parc	du Parc	du Parc	du Parc	November 2011	2	113
+#93DF10	2	506	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	January 2011	2	236
+#93DF10	1	503	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	February 2011	2	237
+#93DF10	17	520	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	March 2011	2	238
+#93DF10	30	2681	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	April 2011	2	239
+#93DF10	31	3473	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	May 2011	2	240
+#93DF10	19	4362	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	June 2011	2	241
+#93DF10	2	4544	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	July 2011	2	242
+#93DF10	13	3923	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	August 2011	2	243
+#93DF10	11	3460	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	September 2011	2	244
+#93DF10	10	3172	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	October 2011	2	245
+#93DF10	2	1071	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	November 2011	2	246
+#F58AC1	13	769	Rachel	Rachel	Rachel	Rachel	January 2011	2	270
+#F58AC1	24	795	Rachel	Rachel	Rachel	Rachel	February 2011	2	271
+#F58AC1	30	1616	Rachel	Rachel	Rachel	Rachel	March 2011	2	272
+#F58AC1	30	4442	Rachel	Rachel	Rachel	Rachel	April 2011	2	273
+#F58AC1	25	5764	Rachel	Rachel	Rachel	Rachel	May 2011	2	274
+#F58AC1	3	8015	Rachel	Rachel	Rachel	Rachel	June 2011	2	275
+#F58AC1	4	6538	Rachel	Rachel	Rachel	Rachel	July 2011	2	276
+#F58AC1	31	6436	Rachel	Rachel	Rachel	Rachel	August 2011	2	277
+#F58AC1	9	6362	Rachel	Rachel	Rachel	Rachel	September 2011	2	278
+#F58AC1	1	2100	Rachel	Rachel	Rachel	Rachel	October 2011	2	279
+#32D6BA	10	897	Berri	Berri	Berri	Berri	January 2012	2	35
+#32D6BA	21	941	Berri	Berri	Berri	Berri	February 2012	2	36
+#32D6BA	21	3329	Berri	Berri	Berri	Berri	March 2012	2	37
+#32D6BA	19	4731	Berri	Berri	Berri	Berri	April 2012	2	38
+#32D6BA	24	6985	Berri	Berri	Berri	Berri	May 2012	2	39
+#32D6BA	15	7577	Berri	Berri	Berri	Berri	June 2012	2	40
+#32D6BA	3	7212	Berri	Berri	Berri	Berri	July 2012	2	41
+#32D6BA	22	7029	Berri	Berri	Berri	Berri	August 2012	2	42
+#32D6BA	13	7020	Berri	Berri	Berri	Berri	September 2012	2	43
+#32D6BA	2	5639	Berri	Berri	Berri	Berri	October 2012	2	44
+#32D6BA	1	2905	Berri	Berri	Berri	Berri	November 2012	2	45
+#A799FF	23	506	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	January 2012	2	80
+#A799FF	22	510	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	February 2012	2	81
+#A799FF	21	2058	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	March 2012	2	82
+#A799FF	19	2510	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	April 2012	2	83
+#A799FF	30	3222	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	May 2012	2	84
+#A799FF	14	3478	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	June 2012	2	85
+#A799FF	3	3134	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	July 2012	2	86
+#A799FF	29	3592	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	August 2012	2	87
+#A799FF	12	3624	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	September 2012	2	88
+#A799FF	2	3025	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	October 2012	2	89
+#A799FF	1	1708	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	November 2012	2	90
+#0591F5	10	738	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	January 2012	2	163
+#0591F5	23	793	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	February 2012	2	164
+#0591F5	21	2393	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	March 2012	2	165
+#0591F5	19	3735	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	April 2012	2	166
+#0591F5	30	5306	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	May 2012	2	167
+#0591F5	15	5499	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	June 2012	2	168
+#0591F5	5	5330	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	July 2012	2	169
+#0591F5	22	5013	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	August 2012	2	170
+#0591F5	13	4869	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	September 2012	2	171
+#0591F5	2	3781	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	October 2012	2	172
+#0591F5	5	2205	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	November 2012	2	173
+#FC9D31	10	1063	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	January 2012	2	213
+#FC9D31	16	1069	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	February 2012	2	214
+#FC9D31	21	4010	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	March 2012	2	215
+#FC9D31	19	5811	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	April 2012	2	216
+#FC9D31	30	8132	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	May 2012	2	217
+#FC9D31	7	8722	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	June 2012	2	218
+#FC9D31	5	8264	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	July 2012	2	219
+#FC9D31	22	7565	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	August 2012	2	220
+#FC9D31	13	8014	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	September 2012	2	221
+#FC9D31	2	6345	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	October 2012	2	222
+#FC9D31	5	3721	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	November 2012	2	223
+#FB8072	10	775	du Parc	du Parc	du Parc	du Parc	January 2012	2	114
+#FB8072	23	829	du Parc	du Parc	du Parc	du Parc	February 2012	2	115
+#FB8072	21	2725	du Parc	du Parc	du Parc	du Parc	March 2012	2	116
+#FB8072	19	3377	du Parc	du Parc	du Parc	du Parc	April 2012	2	117
+#FB8072	14	4368	du Parc	du Parc	du Parc	du Parc	May 2012	2	118
+#FB8072	14	4723	du Parc	du Parc	du Parc	du Parc	June 2012	2	119
+#FB8072	3	4396	du Parc	du Parc	du Parc	du Parc	July 2012	2	120
+#FB8072	22	4274	du Parc	du Parc	du Parc	du Parc	August 2012	2	121
+#FB8072	12	5010	du Parc	du Parc	du Parc	du Parc	September 2012	2	122
+#FB8072	2	4232	du Parc	du Parc	du Parc	du Parc	October 2012	2	123
+#FB8072	5	2643	du Parc	du Parc	du Parc	du Parc	November 2012	2	124
+#93DF10	10	518	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	January 2012	2	247
+#93DF10	18	530	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	February 2012	2	248
+#93DF10	18	1628	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	March 2012	2	249
+#93DF10	15	2346	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	April 2012	2	250
+#93DF10	20	4741	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	May 2012	2	251
+#93DF10	24	4134	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	June 2012	2	252
+#93DF10	8	4886	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	July 2012	2	253
+#93DF10	3	3695	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	August 2012	2	254
+#93DF10	3	4283	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	September 2012	2	255
+#93DF10	26	1956	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	October 2012	2	256
+#93DF10	4	697	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	November 2012	2	257
+#F58AC1	10	741	Rachel	Rachel	Rachel	Rachel	January 2012	2	280
+#F58AC1	23	513	Rachel	Rachel	Rachel	Rachel	February 2012	2	281
+#F58AC1	21	3346	Rachel	Rachel	Rachel	Rachel	March 2012	2	282
+#F58AC1	19	4429	Rachel	Rachel	Rachel	Rachel	April 2012	2	283
+#F58AC1	14	6275	Rachel	Rachel	Rachel	Rachel	May 2012	2	284
+#F58AC1	1	7095	Rachel	Rachel	Rachel	Rachel	June 2012	2	285
+#F58AC1	10	6452	Rachel	Rachel	Rachel	Rachel	July 2012	2	286
+#F58AC1	21	6140	Rachel	Rachel	Rachel	Rachel	August 2012	2	287
+#F58AC1	7	6604	Rachel	Rachel	Rachel	Rachel	September 2012	2	288
+#F58AC1	26	5078	Rachel	Rachel	Rachel	Rachel	October 2012	2	289
+#F58AC1	1	2961	Rachel	Rachel	Rachel	Rachel	November 2012	2	290
+#32D6BA	15	1081	Berri	Berri	Berri	Berri	January 2013	2	46
+#32D6BA	14	940	Berri	Berri	Berri	Berri	February 2013	2	47
+#32D6BA	28	1588	Berri	Berri	Berri	Berri	March 2013	2	48
+#32D6BA	30	5171	Berri	Berri	Berri	Berri	April 2013	2	49
+#32D6BA	28	7303	Berri	Berri	Berri	Berri	May 2013	2	50
+#32D6BA	19	7108	Berri	Berri	Berri	Berri	June 2013	2	51
+#32D6BA	3	7179	Berri	Berri	Berri	Berri	July 2013	2	52
+#32D6BA	20	6627	Berri	Berri	Berri	Berri	August 2013	2	53
+#32D6BA	5	6821	Berri	Berri	Berri	Berri	September 2013	2	54
+#A799FF	16	578	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	January 2013	2	91
+#A799FF	1	524	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	February 2013	2	92
+#A799FF	28	1090	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	March 2013	2	93
+#A799FF	30	2762	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	April 2013	2	94
+#A799FF	7	3768	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	May 2013	2	95
+#A799FF	19	3634	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	June 2013	2	96
+#A799FF	9	3342	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	July 2013	2	97
+#A799FF	27	3305	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	August 2013	2	98
+#A799FF	18	3830	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	C么te-Sainte-Catherine	September 2013	2	99
+#0591F5	15	865	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	January 2013	2	174
+#0591F5	14	790	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	February 2013	2	175
+#0591F5	28	1207	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	March 2013	2	176
+#0591F5	30	3663	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	April 2013	2	177
+#0591F5	31	5216	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	May 2013	2	178
+#0591F5	20	4952	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	June 2013	2	179
+#0591F5	3	4866	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	July 2013	2	180
+#0591F5	29	4402	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	August 2013	2	181
+#0591F5	5	4734	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	Maisonneuve 1	September 2013	2	182
+#FC9D31	16	1278	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	January 2013	2	224
+#FC9D31	14	1067	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	February 2013	2	225
+#FC9D31	28	2012	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	March 2013	2	226
+#FC9D31	30	5812	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	April 2013	2	227
+#FC9D31	28	8184	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	May 2013	2	228
+#FC9D31	13	8066	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	June 2013	2	229
+#FC9D31	3	7986	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	July 2013	2	230
+#FC9D31	6	7624	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	August 2013	2	231
+#FC9D31	3	7627	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	Maisonneuve 2	September 2013	2	232
+#FB8072	16	910	du Parc	du Parc	du Parc	du Parc	January 2013	2	125
+#FB8072	26	762	du Parc	du Parc	du Parc	du Parc	February 2013	2	126
+#FB8072	28	1406	du Parc	du Parc	du Parc	du Parc	March 2013	2	127
+#FB8072	30	3582	du Parc	du Parc	du Parc	du Parc	April 2013	2	128
+#FB8072	8	4603	du Parc	du Parc	du Parc	du Parc	May 2013	2	129
+#FB8072	13	4578	du Parc	du Parc	du Parc	du Parc	June 2013	2	130
+#FB8072	3	4298	du Parc	du Parc	du Parc	du Parc	July 2013	2	131
+#FB8072	21	3985	du Parc	du Parc	du Parc	du Parc	August 2013	2	132
+#FB8072	18	4574	du Parc	du Parc	du Parc	du Parc	September 2013	2	133
+#93DF10	20	506	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	January 2013	2	258
+#93DF10	14	519	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	February 2013	2	259
+#93DF10	30	949	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	March 2013	2	260
+#93DF10	28	3718	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	April 2013	2	261
+#93DF10	5	3886	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	May 2013	2	262
+#93DF10	30	4786	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	June 2013	2	263
+#93DF10	21	5341	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	July 2013	2	264
+#93DF10	11	4189	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	August 2013	2	265
+#93DF10	1	4396	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	Pierre-Dupuy	September 2013	2	266
+#F58AC1	15	1158	Rachel	Rachel	Rachel	Rachel	January 2013	2	291
+#F58AC1	26	1022	Rachel	Rachel	Rachel	Rachel	February 2013	2	292
+#F58AC1	31	3230	Rachel	Rachel	Rachel	Rachel	March 2013	2	293
+#F58AC1	30	5428	Rachel	Rachel	Rachel	Rachel	April 2013	2	294
+#F58AC1	31	9055	Rachel	Rachel	Rachel	Rachel	May 2013	2	295
+#F58AC1	19	7161	Rachel	Rachel	Rachel	Rachel	June 2013	2	296
+#F58AC1	12	7385	Rachel	Rachel	Rachel	Rachel	July 2013	2	297
+#F58AC1	6	6934	Rachel	Rachel	Rachel	Rachel	August 2013	2	298
+#F58AC1	5	6323	Rachel	Rachel	Rachel	Rachel	September 2013	2	299
+#D21BD5	26	932	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	February 2013	2	323
+#D21BD5	28	1478	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	March 2013	2	324
+#D21BD5	30	3470	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	April 2013	2	325
+#D21BD5	31	4486	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	May 2013	2	326
+#D21BD5	20	4534	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	June 2013	2	327
+#D21BD5	11	4655	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	July 2013	2	328
+#D21BD5	21	4793	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	August 2013	2	329
+#D21BD5	18	4421	Totem_Laurier	Totem_Laurier	Totem_Laurier	Totem_Laurier	September 2013	2	330

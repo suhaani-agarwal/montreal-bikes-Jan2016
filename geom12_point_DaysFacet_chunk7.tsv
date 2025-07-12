@@ -1,0 +1,383 @@
+fill	x	y	key	tooltip	showSelected2	PANEL
+#FEE0D2	1	1	2012-07-01 1	  1 people slightly injured at 3600 ST JEAN /  2012-07-01 22:06	people slightly injured	1
+#FEE0D2	1	2	2012-07-01 2	  1 people slightly injured at  LAURIER O / CLARK 2012-07-01 21:20	people slightly injured	1
+#FEE0D2	1	3	2012-07-01 3	  1 people slightly injured at  ROBERT / ALBANEL 2012-07-01 16:45	people slightly injured	1
+#FEE0D2	1	4	2012-07-01 4	  1 people slightly injured at 1055 MTEE DU MOULIN /  2012-07-01 9:40	people slightly injured	1
+#FEE0D2	1	5	2012-07-01 5	  1 people slightly injured at   / DE LIVERPOOL 2012-07-01 14:25	people slightly injured	1
+#FEE0D2	1	6	2012-07-01 6	  1 people slightly injured at 3023 COLLEGE / QUEEN 2012-07-01 10:20	people slightly injured	1
+#FEE0D2	1	7	2012-07-01 7	  1 people slightly injured at  PRINCIPALE / AV FRANK ROBINSON 2012-07-01 8:18	people slightly injured	1
+#FEE0D2	1	8	2012-07-01 8	  1 people slightly injured at 430 RIVERSIDE /  2012-07-01 14:25	people slightly injured	1
+#FEE0D2	1	9	2012-07-01 9	  1 people slightly injured at  MTEE ROBERT / SAVARIA 2012-07-01 11:05	people slightly injured	1
+#FEE0D2	1	10	2012-07-01 10	  1 people slightly injured at  CH WHITE / CH DE MAPLE GROVE 2012-07-01 11:45	people slightly injured	1
+#FB6A4A	1	11	2012-07-01 11	 1 person severely injured, 0 people slightly injured at  VOIE DE SERV AUTOBUS BD LAURIER / SCIENCES HUMAINES 2012-07-01 22:00	people severely injured	1
+#FEE0D2	2	1	2012-07-02 1	  1 people slightly injured at  BEAUBIEN / ESPLANADE 2012-07-02 4:10	people slightly injured	1
+#FEE0D2	2	2	2012-07-02 2	  1 people slightly injured at  ST PAUL / ST PIERRE 2012-07-02 21:55	people slightly injured	1
+#FEE0D2	2	3	2012-07-02 3	  1 people slightly injured at 317 CH TIFFIN /  2012-07-02 8:12	people slightly injured	1
+#FEE0D2	2	4	2012-07-02 4	  1 people slightly injured at  BD ROME / SARTRE 2012-07-02 11:20	people slightly injured	1
+#FEE0D2	2	5	2012-07-02 5	  1 people slightly injured at  MAYRAND / SEMINAIRE N 2012-07-02 14:15	people slightly injured	1
+#FEE0D2	2	6	2012-07-02 6	  1 people slightly injured at  L ASSOMPTION / VALMONT 2012-07-02 17:00	people slightly injured	1
+#FEE0D2	2	7	2012-07-02 7	  1 people slightly injured at  BD STE ANNE / AV JEAN DE CLERMONT 2012-07-02 17:05	people slightly injured	1
+#FEE0D2	2	8	2012-07-02 8	  1 people slightly injured at 3705 CHAUVEAU /  2012-07-02 18:41	people slightly injured	1
+#FEE0D2	2	9	2012-07-02 9	  1 people slightly injured at 3 CH DU DOMAINE / CH CARON 2012-07-02 1:51	people slightly injured	1
+#FEE0D2	2	10	2012-07-02 10	  1 people slightly injured at   / 69E AV 2012-07-02 12:00	people slightly injured	1
+#FEE0D2	3	1	2012-07-03 1	  1 people slightly injured at  BD DES SOURCES / 14E RUE 2012-07-03 17:20	people slightly injured	1
+#FEE0D2	3	2	2012-07-03 2	  1 people slightly injured at  LABATT /  2012-07-03 16:35	people slightly injured	1
+#FEE0D2	3	3	2012-07-03 3	  1 people slightly injured at  BERNARD / ST DOMINIQUE 2012-07-03 12:10	people slightly injured	1
+#FEE0D2	3	4	2012-07-03 4	  1 people slightly injured at  ST ANDRE / BOUCHER 2012-07-03 15:45	people slightly injured	1
+#FEE0D2	3	5	2012-07-03 5	  1 people slightly injured at 3620 ST DENIS / SQUARE ST LOUIS 2012-07-03 12:58	people slightly injured	1
+#FEE0D2	3	6	2012-07-03 6	  1 people slightly injured at  P M FAVIER / RENOIR 2012-07-03 9:30	people slightly injured	1
+#FEE0D2	3	7	2012-07-03 7	  1 people slightly injured at  IBERVILLE / DANDURAND 2012-07-03 14:30	people slightly injured	1
+#FEE0D2	3	8	2012-07-03 8	  1 people slightly injured at 2207 MARC /  2012-07-03 16:42	people slightly injured	1
+#FEE0D2	3	9	2012-07-03 9	  1 people slightly injured at  BARKOFF / DES ORMEAUX 2012-07-03 22:59	people slightly injured	1
+#FEE0D2	3	10	2012-07-03 10	  1 people slightly injured at  BD ST JOSEPH / CH FREEMAN 2012-07-03 8:25	people slightly injured	1
+#FEE0D2	3	11	2012-07-03 11	  2 people slightly injured at   / PERRAULT ET GARDENVILLE 2012-07-03 20:34	people slightly injured	1
+#FEE0D2	3	12	2012-07-03 12	  1 people slightly injured at 80 BELANGER / LABELLE 2012-07-03 13:00	people slightly injured	1
+#FEE0D2	3	13	2012-07-03 13	  1 people slightly injured at  INDUSTRIEL / MASSON 2012-07-03 13:02	people slightly injured	1
+#FEE0D2	3	14	2012-07-03 14	  1 people slightly injured at  CHICOINE / RANGER 2012-07-03 23:05	people slightly injured	1
+#FB6A4A	3	15	2012-07-03 15	 1 person severely injured, 0 people slightly injured at  CH JEAN ADAM / TURCOT 2012-07-03 13:50	people severely injured	1
+#FEE0D2	4	1	2012-07-04 1	  1 people slightly injured at  SHERBROOKE O /  2012-07-04 14:13	people slightly injured	1
+#FEE0D2	4	2	2012-07-04 2	  1 people slightly injured at  PRINCE ARTHUR / PARC 2012-07-04 18:50	people slightly injured	1
+#FEE0D2	4	3	2012-07-04 3	  1 people slightly injured at  BD RIVE S / DORVAL 2012-07-04 8:13	people slightly injured	1
+#FEE0D2	4	4	2012-07-04 4	  1 people slightly injured at  JULES VACHON / INDUSTRIELLE BD 2012-07-04 18:00	people slightly injured	1
+#FEE0D2	4	5	2012-07-04 5	  1 people slightly injured at  BD MOUNTAIN / CITY 2012-07-04 16:58	people slightly injured	1
+#FEE0D2	4	6	2012-07-04 6	  1 people slightly injured at  VICTORIA / PRINCE ARTHUR 2012-07-04 8:05	people slightly injured	1
+#FEE0D2	4	7	2012-07-04 7	  1 people slightly injured at  HILLSIDE / WESTHILL 2012-07-04 17:35	people slightly injured	1
+#FEE0D2	4	8	2012-07-04 8	  1 people slightly injured at  ST HUBERT / ST LEANDRE 2012-07-04 15:30	people slightly injured	1
+#FEE0D2	4	9	2012-07-04 9	  1 people slightly injured at  LAVAL / FORTIER 2012-07-04 12:00	people slightly injured	1
+#FEE0D2	4	10	2012-07-04 10	  1 people slightly injured at  DEBIGARE / N-D E 2012-07-04 13:00	people slightly injured	1
+#FEE0D2	4	11	2012-07-04 11	  1 people slightly injured at  GAMBLE O / PELLETIER 2012-07-04 17:10	people slightly injured	1
+#FEE0D2	4	12	2012-07-04 12	  1 people slightly injured at  AV PROVIDENCE / MCGIBBON 2012-07-04 9:50	people slightly injured	1
+#FB6A4A	4	13	2012-07-04 13	 1 person severely injured, 0 people slightly injured at  ST ANTOINE / PEEL 2012-07-04 23:15	people severely injured	1
+#FEE0D2	5	1	2012-07-05 1	  1 people slightly injured at 4300 BD DE MAISONNEUVE O /  2012-07-05 16:17	people slightly injured	1
+#FEE0D2	5	2	2012-07-05 2	  1 people slightly injured at 6374 BRIAND / PARC GARNEAU 2012-07-05 12:00	people slightly injured	1
+#FEE0D2	5	3	2012-07-05 3	  1 people slightly injured at  DE VERDUIN / 6EME AV 2012-07-05 10:00	people slightly injured	1
+#FEE0D2	5	4	2012-07-05 4	  1 people slightly injured at  SHERBROOKE / MCGILL COLLEGE 2012-07-05 17:25	people slightly injured	1
+#FEE0D2	5	5	2012-07-05 5	  1 people slightly injured at 2626 CH BATES / WILDERTON 2012-07-05 19:25	people slightly injured	1
+#FEE0D2	5	6	2012-07-05 6	  1 people slightly injured at 5119 ST URBAIN /  2012-07-05 17:35	people slightly injured	1
+#FEE0D2	5	7	2012-07-05 7	  1 people slightly injured at  ALBANI ET AV CHARETTE /  2012-07-05 11:55	people slightly injured	1
+#FEE0D2	5	8	2012-07-05 8	  1 people slightly injured at 983 ST AUGUSTIN / BOUTIN S 2012-07-05 11:21	people slightly injured	1
+#FEE0D2	5	9	2012-07-05 9	  1 people slightly injured at  BD THIBEAU / THUNEY 2012-07-05 17:54	people slightly injured	1
+#FEE0D2	5	10	2012-07-05 10	  1 people slightly injured at  BD DES ALLUMETTIERES / LAVAL 2012-07-05 9:00	people slightly injured	1
+#FEE0D2	5	11	2012-07-05 11	  1 people slightly injured at  TASCHEREAU / BD EDOUARD 2012-07-05 9:00	people slightly injured	1
+#FEE0D2	5	12	2012-07-05 12	  1 people slightly injured at 1232 ST LOUIS /  2012-07-05 7:02	people slightly injured	1
+#FEE0D2	5	13	2012-07-05 13	  1 people slightly injured at  20E AV / PISTE CYCLABLE 2012-07-05 14:46	people slightly injured	1
+#FEE0D2	5	14	2012-07-05 14	  1 people slightly injured at 989 N-D / STAT DU 89 2012-07-05 15:14	people slightly injured	1
+#FEE0D2	5	15	2012-07-05 15	  1 people slightly injured at 84 BD PIERRE BERTRAND /  2012-07-05 8:00	people slightly injured	1
+#FEE0D2	5	16	2012-07-05 16	  1 people slightly injured at  ST FELIX / CHAUDIERE 2012-07-05 10:31	people slightly injured	1
+#FEE0D2	5	17	2012-07-05 17	  1 people slightly injured at 245 SOUMANDE /  2012-07-05 15:43	people slightly injured	1
+#FEE0D2	5	18	2012-07-05 18	  1 people slightly injured at 3880 PERE LELIEVRE /  2012-07-05 17:00	people slightly injured	1
+#FEE0D2	5	19	2012-07-05 19	  1 people slightly injured at  EGLISES / HOCHELAGA 2012-07-05 23:50	people slightly injured	1
+#FEE0D2	5	20	2012-07-05 20	  1 people slightly injured at  SALABERRY / NICHOLSON 2012-07-05 8:14	people slightly injured	1
+#FEE0D2	5	21	2012-07-05 21	  1 people slightly injured at 4563 BD ST JOSEPH / GDE AL 2012-07-05 7:12	people slightly injured	1
+#FEE0D2	5	22	2012-07-05 22	  1 people slightly injured at 333 PANET / BD ALBINY PAQUETTE 2012-07-05 15:17	people slightly injured	1
+#FEE0D2	5	23	2012-07-05 23	  1 people slightly injured at  DESORMEAUX / PELLETIER 2012-07-05 20:30	people slightly injured	1
+#FB6A4A	5	24	2012-07-05 24	 1 person severely injured, 0 people slightly injured at   / ROSEMONT ET 4E AV 2012-07-05 8:10	people severely injured	1
+#FB6A4A	5	25	2012-07-05 25	 1 person severely injured, 0 people slightly injured at  IBERVILLE / DE LORIMIER 2012-07-05 9:14	people severely injured	1
+#FEE0D2	6	1	2012-07-06 1	  1 people slightly injured at  MAISONNEUVE / GUY 2012-07-06 23:45	people slightly injured	1
+#FEE0D2	6	2	2012-07-06 2	  1 people slightly injured at  DE MAISONNEUVE / DE LA MONTAGNE 2012-07-06 15:50	people slightly injured	1
+#FEE0D2	6	3	2012-07-06 3	  1 people slightly injured at  COTE STE CATHERINE / MC CULLOCH 2012-07-06 6:30	people slightly injured	1
+#FEE0D2	6	4	2012-07-06 4	  1 people slightly injured at 6792 LEGARE / BARCLAY PRES DE 2012-07-06 12:10	people slightly injured	1
+#FEE0D2	6	5	2012-07-06 5	  1 people slightly injured at 8655 ST LAURENT / VILLERAY 2012-07-06 16:36	people slightly injured	1
+#FEE0D2	6	6	2012-07-06 6	  1 people slightly injured at  GARNIER / ST ZOTIQUE 2012-07-06 16:30	people slightly injured	1
+#FEE0D2	6	7	2012-07-06 7	  1 people slightly injured at  ST DENIS ET RACHEL /  2012-07-06 15:20	people slightly injured	1
+#FEE0D2	6	8	2012-07-06 8	  1 people slightly injured at 7927 LACORDAIRE / METROPOLITAIN 2012-07-06 9:00	people slightly injured	1
+#FEE0D2	6	9	2012-07-06 9	  1 people slightly injured at  MASSON /  2012-07-06 18:45	people slightly injured	1
+#FEE0D2	6	10	2012-07-06 10	  1 people slightly injured at  BD DES FORGES / BD DU CARMEL 2012-07-06 16:30	people slightly injured	1
+#FEE0D2	6	11	2012-07-06 11	  1 people slightly injured at  ST CHARLES S / RACINE 2012-07-06 15:38	people slightly injured	1
+#FEE0D2	6	12	2012-07-06 12	  1 people slightly injured at 1740 BD INDUSTRIEL / CENTRE 2012-07-06 9:04	people slightly injured	1
+#FEE0D2	6	13	2012-07-06 13	  1 people slightly injured at  BD ST RAYMOND / BD DES TREMBLES 2012-07-06 14:32	people slightly injured	1
+#FEE0D2	6	14	2012-07-06 14	  1 people slightly injured at 3655 TASCHEREAU /  2012-07-06 13:45	people slightly injured	1
+#FEE0D2	6	15	2012-07-06 15	  1 people slightly injured at  CURE POIRIER O / QUINN 2012-07-06 19:25	people slightly injured	1
+#FEE0D2	6	16	2012-07-06 16	  1 people slightly injured at  DE GAULE N / RG ST JOSEPH S 2012-07-06 18:30	people slightly injured	1
+#FEE0D2	6	17	2012-07-06 17	  1 people slightly injured at  BEATRICE / CHAMPLAIN 2012-07-06 14:14	people slightly injured	1
+#FEE0D2	6	18	2012-07-06 18	  1 people slightly injured at  PRINCIPALE / 3E AV 2012-07-06 18:00	people slightly injured	1
+#FEE0D2	6	19	2012-07-06 19	  1 people slightly injured at 212 BD LASALLE / FACE AU 2012-07-06 14:45	people slightly injured	1
+#FEE0D2	7	1	2012-07-07 1	  1 people slightly injured at  ST ANTOINE / 5E AV 2012-07-07 21:00	people slightly injured	1
+#FEE0D2	7	2	2012-07-07 2	  1 people slightly injured at 1132 ONTARIO FACE / AMHERST 2012-07-07 17:24	people slightly injured	1
+#FEE0D2	7	3	2012-07-07 3	  1 people slightly injured at 5475 RIVE S STAT /  2012-07-07 9:45	people slightly injured	1
+#FEE0D2	7	4	2012-07-07 4	  1 people slightly injured at  CHARLEVOIX / LAVAL 2012-07-07 16:30	people slightly injured	1
+#FEE0D2	7	5	2012-07-07 5	  1 people slightly injured at 122 LAINESSE /  2012-07-07 10:22	people slightly injured	1
+#FEE0D2	7	6	2012-07-07 6	  1 people slightly injured at 30 DE LA VISITATION / STAT RESTAURANT HENRY 2012-07-07 11:56	people slightly injured	1
+#FEE0D2	7	7	2012-07-07 7	  1 people slightly injured at  8E AV / VITAL PERREAULT 2012-07-07 12:48	people slightly injured	1
+#FEE0D2	8	1	2012-07-08 1	  1 people slightly injured at  LECLAIRE / ADAM 2012-07-08 21:00	people slightly injured	1
+#FEE0D2	8	2	2012-07-08 2	  1 people slightly injured at  FLEURY / OLYMPIA 2012-07-08 17:25	people slightly injured	1
+#FEE0D2	8	3	2012-07-08 3	  1 people slightly injured at  MERRY N / BRET AUT 10 E 2012-07-08 8:29	people slightly injured	1
+#FEE0D2	8	4	2012-07-08 4	  1 people slightly injured at  BD MONTCLAIR / BERRI 2012-07-08 10:18	people slightly injured	1
+#FEE0D2	8	5	2012-07-08 5	  1 people slightly injured at  BD ADOLPHE CHAPLEAU / 31E AV 2012-07-08 10:59	people slightly injured	1
+#FEE0D2	8	6	2012-07-08 6	  1 people slightly injured at  CH GASCON / LUCILLE 2012-07-08 14:27	people slightly injured	1
+#FEE0D2	8	7	2012-07-08 7	  1 people slightly injured at 989 DE LA JOCONDE /  2012-07-08 18:55	people slightly injured	1
+#FEE0D2	8	8	2012-07-08 8	  1 people slightly injured at 1500 BD TRUDEL / ST PAUL INT ROYAL 2012-07-08 19:40	people slightly injured	1
+#FEE0D2	8	9	2012-07-08 9	  1 people slightly injured at 45 DALLAIRE / SAQ SELECTION 2012-07-08 14:00	people slightly injured	1
+#FEE0D2	8	10	2012-07-08 10	  1 people slightly injured at   / RTE 138 ET RTE MARCHAND 2012-07-08 10:15	people slightly injured	1
+#FEE0D2	8	11	2012-07-08 11	  1 people slightly injured at  GRACE / ARGENTEUIL 2012-07-08 16:45	people slightly injured	1
+#FEE0D2	8	12	2012-07-08 12	  1 people slightly injured at  CH DU ROY / FACE AU 376 2012-07-08 11:10	people slightly injured	1
+#FEE0D2	8	13	2012-07-08 13	  1 people slightly injured at 1398 CH DE LA VERNIERE /  2012-07-08 20:15	people slightly injured	1
+#FEE0D2	8	14	2012-07-08 14	  1 people slightly injured at 196 EDOUARD VII /  2012-07-08 11:35	people slightly injured	1
+#FEE0D2	8	15	2012-07-08 15	  1 people slightly injured at  CH DU LAC MILLETTE / JEAN ADAM 2012-07-08 16:00	people slightly injured	1
+#FB6A4A	8	16	2012-07-08 16	 1 person severely injured, 0 people slightly injured at  3E AV / 4E RUE 2012-07-08 19:50	people severely injured	1
+#FB6A4A	8	17	2012-07-08 17	 1 person severely injured, 0 people slightly injured at   / BOIS FRANCS N ET PARE 2012-07-08 15:12	people severely injured	1
+#FEE0D2	9	1	2012-07-09 1	  1 people slightly injured at  CAVENDISHE / POIRIER 2012-07-09 19:45	people slightly injured	1
+#FEE0D2	9	2	2012-07-09 2	  1 people slightly injured at  ST AMBROISE / BERARD 2012-07-09 17:00	people slightly injured	1
+#FEE0D2	9	3	2012-07-09 3	  1 people slightly injured at  DE LA GAUCHETIERE / UNIVERSITY 2012-07-09 10:15	people slightly injured	1
+#FEE0D2	9	4	2012-07-09 4	  1 people slightly injured at  RENE LEVESQUE / LA VISITATION 2012-07-09 3:40	people slightly injured	1
+#FEE0D2	9	5	2012-07-09 5	  1 people slightly injured at 1200 PAPINEAU / STE ROSE 2012-07-09 8:05	people slightly injured	1
+#FEE0D2	9	6	2012-07-09 6	  1 people slightly injured at  SAUVE E / CUROTTE 2012-07-09 14:41	people slightly injured	1
+#FEE0D2	9	7	2012-07-09 7	  1 people slightly injured at  BREBEUF / MT ROYAL 2012-07-09 8:25	people slightly injured	1
+#FEE0D2	9	8	2012-07-09 8	  1 people slightly injured at  ST DENIS / MARIE ANNE 2012-07-09 11:58	people slightly injured	1
+#FEE0D2	9	9	2012-07-09 9	  1 people slightly injured at  DE CASTILLE / PELLETIER 2012-07-09 12:59	people slightly injured	1
+#FEE0D2	9	10	2012-07-09 10	  1 people slightly injured at  ST ZOTIQUE / CHAILLOT 2012-07-09 17:15	people slightly injured	1
+#FEE0D2	9	11	2012-07-09 11	  1 people slightly injured at   / PAVILLON ET LABELLE 2012-07-09 9:50	people slightly injured	1
+#FEE0D2	9	12	2012-07-09 12	  1 people slightly injured at  MERCIER / ST CHARLES 2012-07-09 16:30	people slightly injured	1
+#FEE0D2	9	13	2012-07-09 13	  1 people slightly injured at  GD MOULIN / CH OKA 2012-07-09 17:40	people slightly injured	1
+#FEE0D2	9	14	2012-07-09 14	  1 people slightly injured at  JOFFRE / N-D 2012-07-09 16:41	people slightly injured	1
+#FEE0D2	9	15	2012-07-09 15	  1 people slightly injured at 38 PERREAULT /  2012-07-09 15:00	people slightly injured	1
+#FEE0D2	9	16	2012-07-09 16	  1 people slightly injured at  BD TACHE E / AV C DESPRES 2012-07-09 5:45	people slightly injured	1
+#FEE0D2	10	1	2012-07-10 1	  1 people slightly injured at 3816 N-D O / TURGEON 2012-07-10 14:20	people slightly injured	1
+#FEE0D2	10	2	2012-07-10 2	  1 people slightly injured at  ONTARO / BOURBONNIERE 2012-07-10 19:55	people slightly injured	1
+#FEE0D2	10	3	2012-07-10 3	  1 people slightly injured at  MEILLEUR / PORT ROYAL 2012-07-10 9:45	people slightly injured	1
+#FEE0D2	10	4	2012-07-10 4	  1 people slightly injured at 3960 ST HUBERT /  2012-07-10 	people slightly injured	1
+#FEE0D2	10	5	2012-07-10 5	  1 people slightly injured at  EMILE DUPLOYE / SHERBROOKE E 2012-07-10 9:08	people slightly injured	1
+#FEE0D2	10	6	2012-07-10 6	  1 people slightly injured at 590 SIMONDS / COWIE 2012-07-10 23:04	people slightly injured	1
+#FEE0D2	10	7	2012-07-10 7	  1 people slightly injured at  MCPIKE / JUGDE 2012-07-10 11:55	people slightly injured	1
+#FEE0D2	10	8	2012-07-10 8	  1 people slightly injured at 1005 BD MONTCLAIR / BD DE LA CARRIERE 2012-07-10 15:33	people slightly injured	1
+#FEE0D2	10	9	2012-07-10 9	  1 people slightly injured at  MONTARVILLER / FORT ST LOUIS 2012-07-10 21:30	people slightly injured	1
+#FEE0D2	10	10	2012-07-10 10	  1 people slightly injured at  BELLEVUE N / GDE AL 2012-07-10 22:00	people slightly injured	1
+#FEE0D2	10	11	2012-07-10 11	  1 people slightly injured at  SEMINAIRE N / ST GEORGES 2012-07-10 10:38	people slightly injured	1
+#FEE0D2	10	12	2012-07-10 12	  1 people slightly injured at 290 D ANJOU / YVON 2012-07-10 16:45	people slightly injured	1
+#FEE0D2	10	13	2012-07-10 13	  1 people slightly injured at  COIN BEAUCHESNE / SIROIS 2012-07-10 21:40	people slightly injured	1
+#FEE0D2	10	14	2012-07-10 14	  1 people slightly injured at  JACQUES BEDARD / DELAMARRE 2012-07-10 17:42	people slightly injured	1
+#FEE0D2	10	15	2012-07-10 15	  1 people slightly injured at  22E RUE / BENOIT XV BD 2012-07-10 22:33	people slightly injured	1
+#FEE0D2	10	16	2012-07-10 16	  1 people slightly injured at  8E RUE / 12E AV 2012-07-10 16:00	people slightly injured	1
+#FEE0D2	10	17	2012-07-10 17	  1 people slightly injured at  PRINCIPALE / LEGAULT 2012-07-10 17:53	people slightly injured	1
+#FEE0D2	10	18	2012-07-10 18	  1 people slightly injured at  GD BD / 3E AV 2012-07-10 22:00	people slightly injured	1
+#FEE0D2	10	19	2012-07-10 19	  1 people slightly injured at 316 RG ST ANDRE / DE BLOIS 2012-07-10 16:04	people slightly injured	1
+#FEE0D2	11	1	2012-07-11 1	  1 people slightly injured at  BD ST JEAN ET BD DE SALABERRY /  2012-07-11 23:00	people slightly injured	1
+#FEE0D2	11	2	2012-07-11 2	  1 people slightly injured at  ST PATRICK / THOMAS KEEFER 2012-07-11 21:25	people slightly injured	1
+#FEE0D2	11	3	2012-07-11 3	  1 people slightly injured at 200 TOUR DE L ISLE /  2012-07-11 18:15	people slightly injured	1
+#FEE0D2	11	4	2012-07-11 4	  1 people slightly injured at  CHRISTOPHE COLOMB / RAYMOND PELLETIER 2012-07-11 15:46	people slightly injured	1
+#FEE0D2	11	5	2012-07-11 5	  1 people slightly injured at  ST ZOTIQUE / LANAUDIERE 2012-07-11 14:50	people slightly injured	1
+#FEE0D2	11	6	2012-07-11 6	  1 people slightly injured at  ST DENIS / ROY 2012-07-11 22:30	people slightly injured	1
+#FEE0D2	11	7	2012-07-11 7	  1 people slightly injured at 443 ST MARTIN O / SUN VALLEY 2012-07-11 14:30	people slightly injured	1
+#FEE0D2	11	8	2012-07-11 8	  1 people slightly injured at  POUPART / BD DES LAURENTIDES 2012-07-11 12:20	people slightly injured	1
+#FEE0D2	11	9	2012-07-11 9	  1 people slightly injured at  ST GEORGES / RTE PRESIDENT KENNEDY 2012-07-11 18:38	people slightly injured	1
+#FEE0D2	11	10	2012-07-11 10	  1 people slightly injured at  COTE RICHELIEU / BD ST JEAN 2012-07-11 17:36	people slightly injured	1
+#FEE0D2	11	11	2012-07-11 11	  1 people slightly injured at  DES CHENAUX / AUT 40 E 2012-07-11 19:55	people slightly injured	1
+#FEE0D2	11	12	2012-07-11 12	  1 people slightly injured at 248 SHERBROOKE /  2012-07-11 13:01	people slightly injured	1
+#FEE0D2	11	13	2012-07-11 13	  1 people slightly injured at  CINQ MARS / DESJARDINS 2012-07-11 8:17	people slightly injured	1
+#FEE0D2	11	14	2012-07-11 14	  1 people slightly injured at 5 RIVERSIDE / FACE CLUB DE GOLF ST LAMBERT COUNT 2012-07-11 14:35	people slightly injured	1
+#FEE0D2	11	15	2012-07-11 15	  1 people slightly injured at  QUINN / STE FOY 2012-07-11 15:45	people slightly injured	1
+#FEE0D2	11	16	2012-07-11 16	  1 people slightly injured at  CURE POIRIER O / BREBEUF 2012-07-11 18:20	people slightly injured	1
+#FEE0D2	11	17	2012-07-11 17	  1 people slightly injured at 400 N-D / LEVEILLE 2012-07-11 18:10	people slightly injured	1
+#FEE0D2	11	18	2012-07-11 18	  1 people slightly injured at 602 BOIS FRANCS S / RTE 116 2012-07-11 7:40	people slightly injured	1
+#FEE0D2	11	19	2012-07-11 19	  1 people slightly injured at   / DES OBLATS 2012-07-11 8:24	people slightly injured	1
+#FEE0D2	11	20	2012-07-11 20	  1 people slightly injured at 762 BD SACRE COEUR /  2012-07-11 9:50	people slightly injured	1
+#FEE0D2	12	1	2012-07-12 1	  1 people slightly injured at 357 ST JACQUES /  2012-07-12 13:30	people slightly injured	1
+#FEE0D2	12	2	2012-07-12 2	  1 people slightly injured at 910 MCEACHRAN / FACE A 2012-07-12 17:34	people slightly injured	1
+#FEE0D2	12	3	2012-07-12 3	  1 people slightly injured at  6E AV / DELEFOSSE 2012-07-12 8:50	people slightly injured	1
+#FEE0D2	12	4	2012-07-12 4	  1 people slightly injured at  BD ST CHARLES / CH STE MARIE 2012-07-12 8:34	people slightly injured	1
+#FEE0D2	12	5	2012-07-12 5	  1 people slightly injured at  GENTILLY O / QUINN 2012-07-12 8:43	people slightly injured	1
+#FEE0D2	12	6	2012-07-12 6	  1 people slightly injured at 90 GOUIN / GOUIN ET DU FORT 2012-07-12 17:30	people slightly injured	1
+#FEE0D2	12	7	2012-07-12 7	  1 people slightly injured at  DE LAVAL / PARKVIEW 2012-07-12 8:00	people slightly injured	1
+#FEE0D2	12	8	2012-07-12 8	  2 people slightly injured at  BD ST PAUL / PRICE 2012-07-12 13:28	people slightly injured	1
+#FEE0D2	12	9	2012-07-12 9	  1 people slightly injured at 6301 BD ANTONIO TALBOT /  2012-07-12 17:59	people slightly injured	1
+#FEE0D2	12	10	2012-07-12 10	  1 people slightly injured at  MILLE ILES O / BAZINET 2012-07-12 12:00	people slightly injured	1
+#FEE0D2	12	11	2012-07-12 11	  1 people slightly injured at  3E AV / CANARDIERE 2012-07-12 16:32	people slightly injured	1
+#FEE0D2	12	12	2012-07-12 12	  1 people slightly injured at 1812 BD AUCLAIR /  2012-07-12 17:15	people slightly injured	1
+#FEE0D2	12	13	2012-07-12 13	  1 people slightly injured at  DORCHESTER / CHAREST E 2012-07-12 19:40	people slightly injured	1
+#FEE0D2	12	14	2012-07-12 14	  1 people slightly injured at  AV DES HOTELS / CHARLES M MONSARRAT 2012-07-12 23:34	people slightly injured	1
+#FEE0D2	12	15	2012-07-12 15	  1 people slightly injured at 233 ST CHARLES BORROMEE N / RICHARD 2012-07-12 15:56	people slightly injured	1
+#FEE0D2	12	16	2012-07-12 16	  1 people slightly injured at  BD ARTHUR BUIES / MTEE STE ODILE 2012-07-12 10:45	people slightly injured	1
+#FEE0D2	13	1	2012-07-13 1	  1 people slightly injured at  SPRINGLAND / LAURENDEAU 2012-07-13 7:42	people slightly injured	1
+#FEE0D2	13	2	2012-07-13 2	  1 people slightly injured at  CHAILLOT / DES PORTES 2012-07-13 7:12	people slightly injured	1
+#FEE0D2	13	3	2012-07-13 3	  1 people slightly injured at  ST JOSEPH / DES RECOLLETS 2012-07-13 10:09	people slightly injured	1
+#FEE0D2	13	4	2012-07-13 4	  1 people slightly injured at 2650 BD ROYAL / ST OLIVIER 2012-07-13 10:27	people slightly injured	1
+#FEE0D2	13	5	2012-07-13 5	  1 people slightly injured at 5130 CH DE CHAMBLY /  2012-07-13 13:30	people slightly injured	1
+#FEE0D2	13	6	2012-07-13 6	  1 people slightly injured at 339 BD ST LUC /  2012-07-13 18:15	people slightly injured	1
+#FEE0D2	13	7	2012-07-13 7	  1 people slightly injured at 7 MASKO FACE AU /  2012-07-13 12:10	people slightly injured	1
+#FEE0D2	13	8	2012-07-13 8	  1 people slightly injured at 791 9E RUE / 20E AV 2012-07-13 13:41	people slightly injured	1
+#FEE0D2	13	9	2012-07-13 9	  1 people slightly injured at  ANNEMASSE / FAUBOURG 2012-07-13 21:20	people slightly injured	1
+#FEE0D2	13	10	2012-07-13 10	  1 people slightly injured at 118 MTE MASSON / AU NIV DE LA PISTE CYCLABLE 2012-07-13 16:40	people slightly injured	1
+#FEE0D2	13	11	2012-07-13 11	  1 people slightly injured at  BD DE LA COLLINE / BETHUNE 2012-07-13 14:27	people slightly injured	1
+#FEE0D2	13	12	2012-07-13 12	  1 people slightly injured at 1690 CHAUVEAU /  2012-07-13 18:25	people slightly injured	1
+#FEE0D2	13	13	2012-07-13 13	  1 people slightly injured at 1816 CH DES PATRIOTES /  2012-07-13 18:30	people slightly injured	1
+#FEE0D2	13	14	2012-07-13 14	  1 people slightly injured at  HEBERT / COLLEGE 2012-07-13 13:39	people slightly injured	1
+#FB6A4A	13	15	2012-07-13 15	 1 person severely injured, 0 people slightly injured at  COURONNE / STE HELENE 2012-07-13 14:06	people severely injured	1
+#FEE0D2	14	1	2012-07-14 1	  1 people slightly injured at  ST LAURENT / RENE LEVESQUE 2012-07-14 15:25	people slightly injured	1
+#FEE0D2	14	2	2012-07-14 2	  1 people slightly injured at  CUVILLIER / ADAM 2012-07-14 20:30	people slightly injured	1
+#FEE0D2	14	3	2012-07-14 3	  1 people slightly injured at 6225 LEVESQUE E / LIMOGE 2012-07-14 	people slightly injured	1
+#FEE0D2	14	4	2012-07-14 4	  1 people slightly injured at   / PL LEBLOND 2012-07-14 20:15	people slightly injured	1
+#FEE0D2	15	1	2012-07-15 1	  1 people slightly injured at  DE L ENTENTE ET BARRAS /  2012-07-15 17:50	people slightly injured	1
+#FEE0D2	15	2	2012-07-15 2	  1 people slightly injured at 1080 TALBOT / STAT DU 1080 TALBOT 2012-07-15 10:39	people slightly injured	1
+#FEE0D2	15	3	2012-07-15 3	  1 people slightly injured at 2975 CH DE LA VALLIERE /  2012-07-15 12:55	people slightly injured	1
+#FEE0D2	15	4	2012-07-15 4	  1 people slightly injured at  BD ST JOSEPH / MARCHAND 2012-07-15 19:45	people slightly injured	1
+#FEE0D2	15	5	2012-07-15 5	  1 people slightly injured at 80 CARTIER / SUPER SOIR CARTIER 2012-07-15 14:45	people slightly injured	1
+#FEE0D2	16	1	2012-07-16 1	  1 people slightly injured at   /  2012-07-16 14:25	people slightly injured	1
+#FEE0D2	16	2	2012-07-16 2	  1 people slightly injured at 1985 BD GRAHAM / KINDERSLEY 2012-07-16 17:30	people slightly injured	1
+#FEE0D2	16	3	2012-07-16 3	  1 people slightly injured at  VAN HORNE / COTE DES NEIGES 2012-07-16 17:06	people slightly injured	1
+#FEE0D2	16	4	2012-07-16 4	  1 people slightly injured at 2374 BEAUBIEN E / DES ECORES 2012-07-16 12:30	people slightly injured	1
+#FEE0D2	16	5	2012-07-16 5	  1 people slightly injured at  BERRI / CHERRIER 2012-07-16 7:40	people slightly injured	1
+#FEE0D2	16	6	2012-07-16 6	  1 people slightly injured at  MARIEN / METROPOLITAIN 2012-07-16 7:30	people slightly injured	1
+#FEE0D2	16	7	2012-07-16 7	  1 people slightly injured at  CORBEIL / STIE STAT DU DOLLARAMA 2012-07-16 12:00	people slightly injured	1
+#FEE0D2	16	8	2012-07-16 8	  1 people slightly injured at  DES FORGES / ST DENIS 2012-07-16 16:40	people slightly injured	1
+#FEE0D2	16	9	2012-07-16 9	  1 people slightly injured at  CHAPLEAU / ST JEAN BAPTISTE 2012-07-16 7:52	people slightly injured	1
+#FEE0D2	16	10	2012-07-16 10	  1 people slightly injured at 1015 CHATEAU BIGOT /  2012-07-16 16:00	people slightly injured	1
+#FEE0D2	16	11	2012-07-16 11	  1 people slightly injured at  18IEME RUE / MC GOWAN 2012-07-16 16:24	people slightly injured	1
+#FEE0D2	16	12	2012-07-16 12	  1 people slightly injured at 15021 HENRI BOURASSA /  2012-07-16 21:45	people slightly injured	1
+#FEE0D2	17	1	2012-07-17 1	  1 people slightly injured at  HOCHELAGA / DE CHAMBLY 2012-07-17 15:12	people slightly injured	1
+#FEE0D2	17	2	2012-07-17 2	  1 people slightly injured at 97 D ANJOU / MAPLE 2012-07-17 12:45	people slightly injured	1
+#FEE0D2	17	3	2012-07-17 3	  1 people slightly injured at 180 GDE COTE /  2012-07-17 15:25	people slightly injured	1
+#FEE0D2	17	4	2012-07-17 4	  1 people slightly injured at  CH GASCON / BD DE HAUTEVILLE 2012-07-17 19:20	people slightly injured	1
+#FEE0D2	17	5	2012-07-17 5	  1 people slightly injured at  ST LOUIS / STE MARIE 2012-07-17 19:45	people slightly injured	1
+#A50F15	17	6	2012-07-17 6	1 death,  0 people slightly injured at  DES CONSEILLERS / ST JEAN 2012-07-17 19:48	deaths	1
+#FEE0D2	18	1	2012-07-18 1	  1 people slightly injured at  ANGERS / ROBERVAL 2012-07-18 20:50	people slightly injured	1
+#FEE0D2	18	2	2012-07-18 2	  1 people slightly injured at   / FLEURY E ET LAROSE 2012-07-18 13:35	people slightly injured	1
+#FEE0D2	18	3	2012-07-18 3	  1 people slightly injured at  ST URBAIN / MT ROYAL O 2012-07-18 21:10	people slightly injured	1
+#FEE0D2	18	4	2012-07-18 4	  1 people slightly injured at  PLINGUET / LIONEL GROULX 2012-07-18 12:55	people slightly injured	1
+#FEE0D2	18	5	2012-07-18 5	  1 people slightly injured at  LACORDAIRE / DES GDES PRAIRIES 2012-07-18 17:49	people slightly injured	1
+#FEE0D2	18	6	2012-07-18 6	  1 people slightly injured at  LANGELIER / JARRY 2012-07-18 18:00	people slightly injured	1
+#FEE0D2	18	7	2012-07-18 7	  1 people slightly injured at 5505 D IBERVILLE FACE /  2012-07-18 16:25	people slightly injured	1
+#FEE0D2	18	8	2012-07-18 8	  1 people slightly injured at  AV DES DRAVEURS / BD DU ST MAURICE 2012-07-18 18:52	people slightly injured	1
+#FEE0D2	18	9	2012-07-18 9	  1 people slightly injured at   / 411 BELVEDERE S 2012-07-18 15:43	people slightly injured	1
+#FEE0D2	18	10	2012-07-18 10	  1 people slightly injured at   / FACE AU 5 RIVE S 2012-07-18 9:05	people slightly injured	1
+#FEE0D2	18	11	2012-07-18 11	  2 people slightly injured at  PAPINEAU / NOBERT 2012-07-18 15:15	people slightly injured	1
+#FEE0D2	18	12	2012-07-18 12	  1 people slightly injured at  BD MONTMORENCY / ERNEST LAPOINTE 2012-07-18 14:00	people slightly injured	1
+#FEE0D2	18	13	2012-07-18 13	  1 people slightly injured at  3IEME O / 54IEME RUE O 2012-07-18 16:46	people slightly injured	1
+#FEE0D2	18	14	2012-07-18 14	  1 people slightly injured at  ST PIERRE S / ALBERT LUSSIER 2012-07-18 12:00	people slightly injured	1
+#FB6A4A	18	15	2012-07-18 15	 1 person severely injured, 1 people slightly injured at   / RG ST FRANCOIS 2012-07-18 11:58	people severely injured	1
+#FEE0D2	19	1	2012-07-19 1	  1 people slightly injured at  LAURENTIEN / BOCAGE 2012-07-19 8:32	people slightly injured	1
+#FEE0D2	19	2	2012-07-19 2	  1 people slightly injured at  DE MARSEILLE / EMILE LEGRAND 2012-07-19 16:08	people slightly injured	1
+#FEE0D2	19	3	2012-07-19 3	  1 people slightly injured at  CARTIER / ST HUBERT 2012-07-19 10:11	people slightly injured	1
+#FEE0D2	19	4	2012-07-19 4	  1 people slightly injured at 4685 GABORIAULT /  2012-07-19 15:55	people slightly injured	1
+#FEE0D2	19	5	2012-07-19 5	  1 people slightly injured at 215 BELLEHUMEUR / STIE STAT BD LA GAPPE MARCHE FRAIS 2012-07-19 18:00	people slightly injured	1
+#FEE0D2	19	6	2012-07-19 6	  1 people slightly injured at  DE GAULLE / ENTR 640 E 2012-07-19 16:15	people slightly injured	1
+#FEE0D2	19	7	2012-07-19 7	  1 people slightly injured at  48E AV / PISTE CYCLABLE 2012-07-19 7:02	people slightly injured	1
+#FEE0D2	19	8	2012-07-19 8	  1 people slightly injured at  12E AV E / PL DES PIONNIERS 2012-07-19 17:30	people slightly injured	1
+#FEE0D2	19	9	2012-07-19 9	  1 people slightly injured at 26 BD DES ILES / FACE AU IGA 2012-07-19 12:55	people slightly injured	1
+#FEE0D2	19	10	2012-07-19 10	  1 people slightly injured at   / INT RTE 138 ET RTE 363 2012-07-19 12:55	people slightly injured	1
+#FEE0D2	19	11	2012-07-19 11	  1 people slightly injured at 50 BD TACHE O / GARAGE ULTRAMAR 2012-07-19 15:35	people slightly injured	1
+#FEE0D2	20	1	2012-07-20 1	  1 people slightly injured at  ALEXIS NIHON / WARD 2012-07-20 21:40	people slightly injured	1
+#FEE0D2	20	2	2012-07-20 2	  1 people slightly injured at  SHERBROOKE O / STRATHCONA 2012-07-20 12:05	people slightly injured	1
+#FEE0D2	20	3	2012-07-20 3	  1 people slightly injured at 8260 DEVONSHIRE PRES DE /  2012-07-20 13:20	people slightly injured	1
+#FEE0D2	20	4	2012-07-20 4	  1 people slightly injured at  BARCLAY / COTE DES NEIGES 2012-07-20 8:50	people slightly injured	1
+#FEE0D2	20	5	2012-07-20 5	  1 people slightly injured at  DE NORMANVILLE / JEAN TALON E 2012-07-20 16:10	people slightly injured	1
+#FEE0D2	20	6	2012-07-20 6	  1 people slightly injured at   / BELLECHASSE ET 44E AV 2012-07-20 10:30	people slightly injured	1
+#FEE0D2	20	7	2012-07-20 7	  1 people slightly injured at  DES FAUVETTES / DES GOELANDS 2012-07-20 13:04	people slightly injured	1
+#FEE0D2	20	8	2012-07-20 8	  1 people slightly injured at  ST LOUIS / DE BELLEFEUILLE 2012-07-20 17:10	people slightly injured	1
+#FEE0D2	20	9	2012-07-20 9	  1 people slightly injured at 3220 BD NEILSON /  2012-07-20 17:00	people slightly injured	1
+#FEE0D2	20	10	2012-07-20 10	  1 people slightly injured at  BD SABOURIN / DES HAUTS BOIS 2012-07-20 13:39	people slightly injured	1
+#FEE0D2	20	11	2012-07-20 11	  1 people slightly injured at 457 ST JACQUES / ST NICOLAS 2012-07-20 20:10	people slightly injured	1
+#FB6A4A	20	12	2012-07-20 12	 1 person severely injured, 0 people slightly injured at 560 RTE 131 /  2012-07-20 17:00	people severely injured	1
+#FEE0D2	21	1	2012-07-21 1	  1 people slightly injured at  DE L EGLISE / LAURENDEAU 2012-07-21 11:30	people slightly injured	1
+#FEE0D2	21	2	2012-07-21 2	  1 people slightly injured at  EVERETT / ST HUBERT 2012-07-21 12:20	people slightly injured	1
+#FEE0D2	21	3	2012-07-21 3	  1 people slightly injured at  ST LAURENT O / JOLIETTE 2012-07-21 22:47	people slightly injured	1
+#FEE0D2	21	4	2012-07-21 4	  1 people slightly injured at 1640 BOURGOGNE /  2012-07-21 15:40	people slightly injured	1
+#FEE0D2	21	5	2012-07-21 5	  1 people slightly injured at 77 PRINCIPALE / MC COMBER 2012-07-21 12:25	people slightly injured	1
+#FEE0D2	21	6	2012-07-21 6	  1 people slightly injured at  BASTIEN / ROBERT BOURASSA 2012-07-21 11:32	people slightly injured	1
+#FEE0D2	21	7	2012-07-21 7	  1 people slightly injured at 240 DU FLEUVE /  2012-07-21 14:00	people slightly injured	1
+#FB6A4A	21	8	2012-07-21 8	 1 person severely injured, 0 people slightly injured at  RENE LEVESQUE / ST TIMOTHEE 2012-07-21 20:30	people severely injured	1
+#FEE0D2	22	1	2012-07-22 1	  1 people slightly injured at 1816 VALOIS / LA FONTAINE 2012-07-22 17:13	people slightly injured	1
+#FEE0D2	22	2	2012-07-22 2	  1 people slightly injured at  ROBERVAL / RABASTALIERE O 2012-07-22 7:30	people slightly injured	1
+#FEE0D2	22	3	2012-07-22 3	  1 people slightly injured at  BD ST JOSEPH / DE BOUCHERVILLE 2012-07-22 12:00	people slightly injured	1
+#FEE0D2	22	4	2012-07-22 4	  1 people slightly injured at  REGNEAULT / JOLLIET 2012-07-22 14:52	people slightly injured	1
+#FEE0D2	23	1	2012-07-23 1	  1 people slightly injured at  SHERBROOKE / UNIVERSITE 2012-07-23 17:30	people slightly injured	1
+#FEE0D2	23	2	2012-07-23 2	  2 people slightly injured at  ONTARIO / NICOLET 2012-07-23 8:10	people slightly injured	1
+#FEE0D2	23	3	2012-07-23 3	  1 people slightly injured at  MT ROYAL / CARTIER 2012-07-23 15:15	people slightly injured	1
+#FEE0D2	23	4	2012-07-23 4	  1 people slightly injured at  MT ROYAL O / ESPLANADE 2012-07-23 18:40	people slightly injured	1
+#FEE0D2	23	5	2012-07-23 5	  1 people slightly injured at  LORD / MARTIN 2012-07-23 14:10	people slightly injured	1
+#FEE0D2	23	6	2012-07-23 6	  1 people slightly injured at 3101 DELORME / DOMREMY 2012-07-23 17:07	people slightly injured	1
+#FEE0D2	23	7	2012-07-23 7	  1 people slightly injured at  VIAU / FORTIER S 2012-07-23 19:39	people slightly injured	1
+#FEE0D2	23	8	2012-07-23 8	  1 people slightly injured at 425 BD ST JOSEPH /  2012-07-23 16:01	people slightly injured	1
+#FEE0D2	23	9	2012-07-23 9	  1 people slightly injured at 347 PRINCIPALE N / DU MANOIR 2012-07-23 16:00	people slightly injured	1
+#FEE0D2	23	10	2012-07-23 10	  1 people slightly injured at   / FACE A L ADRESSE 2012-07-23 6:59	people slightly injured	1
+#FEE0D2	23	11	2012-07-23 11	  1 people slightly injured at 519 CH DE LA GDE COTE / 64E AV 2012-07-23 14:32	people slightly injured	1
+#FEE0D2	23	12	2012-07-23 12	  1 people slightly injured at  LOUISE / BOILEAU 2012-07-23 14:42	people slightly injured	1
+#FEE0D2	23	13	2012-07-23 13	  1 people slightly injured at  BASTIEN / ST CHARLES 2012-07-23 16:00	people slightly injured	1
+#FEE0D2	24	1	2012-07-24 1	  1 people slightly injured at 2612 HENRI BOURASSA /  2012-07-24 11:30	people slightly injured	1
+#FEE0D2	24	2	2012-07-24 2	  1 people slightly injured at 500 BD DES LAURENTIDES / CONCORDE 2012-07-24 11:45	people slightly injured	1
+#FEE0D2	24	3	2012-07-24 3	  1 people slightly injured at  BD GREBER / BD MALONEY O 2012-07-24 9:34	people slightly injured	1
+#FEE0D2	24	4	2012-07-24 4	  1 people slightly injured at 2785 WILFRID HAMEL /  2012-07-24 14:52	people slightly injured	1
+#FEE0D2	24	5	2012-07-24 5	  2 people slightly injured at 261 PRINCIPALE E / REST VALENTINE 2012-07-24 15:30	people slightly injured	1
+#FB6A4A	24	6	2012-07-24 6	 1 person severely injured, 0 people slightly injured at  CORMIER / CLOUTIER 2012-07-24 14:05	people severely injured	1
+#A50F15	24	7	2012-07-24 7	1 death,  0 people slightly injured at  CHRISTOPHE COLOMB / MISTRAL 2012-07-24 6:50	deaths	1
+#FEE0D2	25	1	2012-07-25 1	  1 people slightly injured at  FREDMIR / BD PIERREFOND 2012-07-25 15:45	people slightly injured	1
+#FEE0D2	25	2	2012-07-25 2	  1 people slightly injured at  MAYFAIR / MONKLAND 2012-07-25 14:15	people slightly injured	1
+#FEE0D2	25	3	2012-07-25 3	  1 people slightly injured at  SHEVCHENKO / LEMIEUX 2012-07-25 16:55	people slightly injured	1
+#FEE0D2	25	4	2012-07-25 4	  1 people slightly injured at  VERENDRYE / BRIAND 2012-07-25 	people slightly injured	1
+#FEE0D2	25	5	2012-07-25 5	  1 people slightly injured at 1430 MONTAGNE / MAISONNEUVE O 2012-07-25 11:45	people slightly injured	1
+#FEE0D2	25	6	2012-07-25 6	  1 people slightly injured at  COTE STE CATHERINE / LEGARE 2012-07-25 	people slightly injured	1
+#FEE0D2	25	7	2012-07-25 7	  1 people slightly injured at  CHRISTOPHE COLOMB / LEGENDRE 2012-07-25 20:28	people slightly injured	1
+#FEE0D2	25	8	2012-07-25 8	  1 people slightly injured at  BEAUMONT / CHAMPAGNEUR 2012-07-25 12:05	people slightly injured	1
+#FEE0D2	25	9	2012-07-25 9	  1 people slightly injured at  HOCHELAGA / LEBRUN 2012-07-25 18:09	people slightly injured	1
+#FEE0D2	25	10	2012-07-25 10	  1 people slightly injured at  JACQUES CARTIER E / GAMACHE 2012-07-25 15:20	people slightly injured	1
+#FEE0D2	25	11	2012-07-25 11	  1 people slightly injured at 6250 COUSINEAU / GAETAN BOUCHER 2012-07-25 16:50	people slightly injured	1
+#FEE0D2	25	12	2012-07-25 12	  1 people slightly injured at  CH ST CHARLES / FERNAND RENE VENNE 2012-07-25 18:15	people slightly injured	1
+#FEE0D2	25	13	2012-07-25 13	  1 people slightly injured at  BD MASCOUCHE / BRIEN 2012-07-25 7:35	people slightly injured	1
+#FEE0D2	25	14	2012-07-25 14	  1 people slightly injured at 2985 PERE LELIEVRE /  2012-07-25 16:10	people slightly injured	1
+#FEE0D2	25	15	2012-07-25 15	  1 people slightly injured at  RAYMOND / DUVERNAY 2012-07-25 8:59	people slightly injured	1
+#FEE0D2	25	16	2012-07-25 16	  1 people slightly injured at 3614 QUEEN /  2012-07-25 18:50	people slightly injured	1
+#FEE0D2	26	1	2012-07-26 1	  1 people slightly injured at   / ST JOSEPH ET 44E AV 2012-07-26 17:00	people slightly injured	1
+#FEE0D2	26	2	2012-07-26 2	  1 people slightly injured at  WELLINGTON / GALT 2012-07-26 20:50	people slightly injured	1
+#FEE0D2	26	3	2012-07-26 3	  1 people slightly injured at 85 N-D O /  2012-07-26 10:25	people slightly injured	1
+#FEE0D2	26	4	2012-07-26 4	  1 people slightly injured at  CHARLES / WINDSOR 2012-07-26 16:24	people slightly injured	1
+#FEE0D2	26	5	2012-07-26 5	  1 people slightly injured at  DE LA TRINITE ET AV DE LA VERENDRY /  2012-07-26 13:09	people slightly injured	1
+#FEE0D2	26	6	2012-07-26 6	  1 people slightly injured at  ARMAND VIAU / JEAN MARCHAND 2012-07-26 17:00	people slightly injured	1
+#FEE0D2	26	7	2012-07-26 7	  1 people slightly injured at  ROYALE / LA SALLE 2012-07-26 15:50	people slightly injured	1
+#FEE0D2	26	8	2012-07-26 8	  1 people slightly injured at  HAMMOND / LAVIGUEUR 2012-07-26 18:48	people slightly injured	1
+#FB6A4A	26	9	2012-07-26 9	 1 person severely injured, 0 people slightly injured at  BD DE LA VERENDRYE / AV GATINEAU 2012-07-26 15:48	people severely injured	1
+#FEE0D2	27	1	2012-07-27 1	  1 people slightly injured at  BERRI / ONTARIO 2012-07-27 19:45	people slightly injured	1
+#FEE0D2	27	2	2012-07-27 2	  1 people slightly injured at  BELLECHASSE / ST LAURENT 2012-07-27 10:35	people slightly injured	1
+#FEE0D2	27	3	2012-07-27 3	  1 people slightly injured at  ANDRE AMPERE / CHARLES RENARD 2012-07-27 12:10	people slightly injured	1
+#FEE0D2	27	4	2012-07-27 4	  1 people slightly injured at 1245 BOUSQUET / V 2012-07-27 10:08	people slightly injured	1
+#FEE0D2	27	5	2012-07-27 5	  1 people slightly injured at 1300 DES RECOLLETS / AUBUCHON 2012-07-27 9:21	people slightly injured	1
+#FEE0D2	27	6	2012-07-27 6	  1 people slightly injured at  DES FORGES / BERGERON 2012-07-27 17:09	people slightly injured	1
+#FEE0D2	27	7	2012-07-27 7	  1 people slightly injured at 381 BD MALONEY E / STAT 2012-07-27 19:10	people slightly injured	1
+#FEE0D2	27	8	2012-07-27 8	  1 people slightly injured at  CAGU / CHAMPLAIN 2012-07-27 6:15	people slightly injured	1
+#FEE0D2	27	9	2012-07-27 9	  1 people slightly injured at 4889 MARIE VICTORIN /  2012-07-27 15:55	people slightly injured	1
+#FEE0D2	27	10	2012-07-27 10	  1 people slightly injured at  JEANNOTTE ET LISBONNE /  2012-07-27 19:04	people slightly injured	1
+#FEE0D2	27	11	2012-07-27 11	  1 people slightly injured at  SEIGNEURIE O / BD JACQUES ST ANDRE 2012-07-27 22:53	people slightly injured	1
+#FEE0D2	27	12	2012-07-27 12	  1 people slightly injured at 460 LABELLE /  2012-07-27 17:38	people slightly injured	1
+#FEE0D2	27	13	2012-07-27 13	  1 people slightly injured at  SOUMANDE / DE L EXPOSITION 2012-07-27 11:00	people slightly injured	1
+#FEE0D2	27	14	2012-07-27 14	  1 people slightly injured at 5970 CH ST ROCH /  2012-07-27 15:00	people slightly injured	1
+#FEE0D2	27	15	2012-07-27 15	  1 people slightly injured at  COTE ST CHARLES / CH ST LOUIS 2012-07-27 17:15	people slightly injured	1
+#FEE0D2	27	16	2012-07-27 16	  1 people slightly injured at  ST ANDRE / ST GEORGES 2012-07-27 14:18	people slightly injured	1
+#FB6A4A	27	17	2012-07-27 17	 1 person severely injured, 0 people slightly injured at  CHRISTOPHE COLOMB / CREMAZIE 2012-07-27 13:20	people severely injured	1
+#FEE0D2	28	1	2012-07-28 1	  1 people slightly injured at 7427 NEWMAN /  2012-07-28 15:40	people slightly injured	1
+#FEE0D2	28	2	2012-07-28 2	  1 people slightly injured at   / MAISONEUVE O ET METCALFE 2012-07-28 17:45	people slightly injured	1
+#FEE0D2	28	3	2012-07-28 3	  1 people slightly injured at 2 BELLECHASSE /  2012-07-28 14:00	people slightly injured	1
+#FEE0D2	28	4	2012-07-28 4	  1 people slightly injured at  6E RUE / HETU 2012-07-28 17:04	people slightly injured	1
+#FEE0D2	28	5	2012-07-28 5	  1 people slightly injured at 3467 BD ST JEAN BAPTISTE / FACE 2012-07-28 12:09	people slightly injured	1
+#FEE0D2	28	6	2012-07-28 6	  1 people slightly injured at  MALTAIS / KEROUACK 2012-07-28 21:55	people slightly injured	1
+#FEE0D2	28	7	2012-07-28 7	  1 people slightly injured at 555 AV MATHERS / 25E AV 2012-07-28 16:10	people slightly injured	1
+#FEE0D2	28	8	2012-07-28 8	  1 people slightly injured at  CHAREST O / MONTMAGNY 2012-07-28 16:54	people slightly injured	1
+#FEE0D2	28	9	2012-07-28 9	  1 people slightly injured at  AV PLANTE / BLOUIN 2012-07-28 21:30	people slightly injured	1
+#FEE0D2	28	10	2012-07-28 10	  1 people slightly injured at 828 OUELLETTE /  2012-07-28 17:25	people slightly injured	1
+#FEE0D2	28	11	2012-07-28 11	  1 people slightly injured at  BD MGR LANGLOIS / MADEN 2012-07-28 13:05	people slightly injured	1
+#FEE0D2	29	1	2012-07-29 1	  1 people slightly injured at 8760 BD LASALLE / STAT 2012-07-29 18:00	people slightly injured	1
+#FEE0D2	29	2	2012-07-29 2	  1 people slightly injured at  ST CHARLES / CHARLEVOIX 2012-07-29 15:13	people slightly injured	1
+#FEE0D2	29	3	2012-07-29 3	  1 people slightly injured at  COTE DES NEIGES / RIV DES PINS 2012-07-29 2:25	people slightly injured	1
+#FEE0D2	29	4	2012-07-29 4	  1 people slightly injured at  CURE BOIVIN / 6E AV 2012-07-29 0:15	people slightly injured	1
+#FEE0D2	29	5	2012-07-29 5	  1 people slightly injured at 421 BD ADOLPHE CHAPLEAU /  2012-07-29 13:49	people slightly injured	1
+#FEE0D2	29	6	2012-07-29 6	  1 people slightly injured at 1217 CH ROYAL /  2012-07-29 17:08	people slightly injured	1
+#FEE0D2	30	1	2012-07-30 1	  1 people slightly injured at  BORD DU LAC / WILSON 2012-07-30 15:54	people slightly injured	1
+#FEE0D2	30	2	2012-07-30 2	  1 people slightly injured at  ST DENIS / SAUVE 2012-07-30 13:18	people slightly injured	1
+#FEE0D2	30	3	2012-07-30 3	  1 people slightly injured at 39 ST LUC /  2012-07-30 16:30	people slightly injured	1
+#FEE0D2	30	4	2012-07-30 4	  1 people slightly injured at  AV DES EGLISES / STIE 314 N 2012-07-30 11:20	people slightly injured	1
+#FEE0D2	30	5	2012-07-30 5	  1 people slightly injured at 120 AV ST AUGUSTIN /  2012-07-30 17:00	people slightly injured	1
+#FEE0D2	30	6	2012-07-30 6	  1 people slightly injured at 1400 STE MARGUERITE / PLOUFFE 2012-07-30 14:49	people slightly injured	1
+#FEE0D2	30	7	2012-07-30 7	  1 people slightly injured at 1357 SHEFFORD /  2012-07-30 12:45	people slightly injured	1
+#FEE0D2	30	8	2012-07-30 8	  1 people slightly injured at  DES PINS / DE L ENTENTE 2012-07-30 16:56	people slightly injured	1
+#FEE0D2	30	9	2012-07-30 9	  1 people slightly injured at   / RTE 169 2012-07-30 16:49	people slightly injured	1
+#FEE0D2	30	10	2012-07-30 10	  1 people slightly injured at 694 BD DU RIVAGE /  2012-07-30 16:20	people slightly injured	1
+#FB6A4A	30	11	2012-07-30 11	 1 person severely injured, 0 people slightly injured at  BOURGOGNE / MARTEL 2012-07-30 21:45	people severely injured	1
+#FEE0D2	31	1	2012-07-31 1	  1 people slightly injured at  DE SALABERRY / MONTEVISTA 2012-07-31 20:15	people slightly injured	1
+#FEE0D2	31	2	2012-07-31 2	  1 people slightly injured at  ESTHER BLONDIN / PROVOST 2012-07-31 16:00	people slightly injured	1
+#FEE0D2	31	3	2012-07-31 3	  1 people slightly injured at  CENTRALE / 75E AV 2012-07-31 16:59	people slightly injured	1
+#FEE0D2	31	4	2012-07-31 4	  1 people slightly injured at 1196 CAMILLIEN HOUDE /  2012-07-31 18:55	people slightly injured	1
+#FEE0D2	31	5	2012-07-31 5	  1 people slightly injured at  SHERBROOKE / CITY CONCILLOR 2012-07-31 17:15	people slightly injured	1
+#FEE0D2	31	6	2012-07-31 6	  1 people slightly injured at  MCGILL / MARGUERITE D YOUVILLE 2012-07-31 22:55	people slightly injured	1
+#FEE0D2	31	7	2012-07-31 7	  1 people slightly injured at 1900 DICKSON /  2012-07-31 8:20	people slightly injured	1
+#FEE0D2	31	8	2012-07-31 8	  1 people slightly injured at  SAMSON / CHERBOURG 2012-07-31 8:40	people slightly injured	1
+#FEE0D2	31	9	2012-07-31 9	  1 people slightly injured at 3220 RENE GAULTIER / DALPE 2012-07-31 13:05	people slightly injured	1
+#FEE0D2	31	10	2012-07-31 10	  1 people slightly injured at  CH OKA / PRINCIPALE 2012-07-31 9:55	people slightly injured	1
+#FEE0D2	31	11	2012-07-31 11	  1 people slightly injured at 1495 ANNE HEBERT /  2012-07-31 17:26	people slightly injured	1
+#FEE0D2	31	12	2012-07-31 12	  1 people slightly injured at  DES PRUNIERS / STAT 615 DU VERGER STIE DU 2012-07-31 16:30	people slightly injured	1
